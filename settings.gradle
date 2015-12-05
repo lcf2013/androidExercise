@@ -1,1 +1,1 @@
-include ':app', ':animator', ':media'
+include ':app', ':animator', ':media', ':viewpager'
