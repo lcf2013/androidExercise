@@ -61,6 +61,7 @@ public class MyAnimatorView extends View {
         Point point=new Point(getWidth()/2,radius);
         Point end=new Point(getWidth()/2,getHeight()-radius);
         ValueAnimator valueAnimator=ValueAnimator.ofObject(new PointEvaluator(),point,end);
+
         valueAnimator.addUpdateListener(new ValueAnimator.AnimatorUpdateListener() {
             @Override
             public void onAnimationUpdate(ValueAnimator valueAnimator) {
