@@ -1,1 +1,1 @@
-include ':app', ':animator', ':media', ':viewpager', ':autoscrollimage', ':canvas_test', ':autoscrolltextview', ':camera3drotate', ':shaketextview'
+include ':app', ':animator', ':media', ':viewpager', ':autoscrollimage', ':canvas_test', ':autoscrolltextview', ':camera3drotate', ':shaketextview', ':autocompleteconcattext'

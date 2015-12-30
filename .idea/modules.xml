@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/androidExercise.iml" filepath="$PROJECT_DIR$/androidExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/animator/animator.iml" filepath="$PROJECT_DIR$/animator/animator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocompleteconcattext/autocompleteconcattext.iml" filepath="$PROJECT_DIR$/autocompleteconcattext/autocompleteconcattext.iml" />
       <module fileurl="file://$PROJECT_DIR$/autoscrollimage/autoscrollimage.iml" filepath="$PROJECT_DIR$/autoscrollimage/autoscrollimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/autoscrolltextview/autoscrolltextview.iml" filepath="$PROJECT_DIR$/autoscrolltextview/autoscrolltextview.iml" />
       <module fileurl="file://$PROJECT_DIR$/camera3drotate/camera3drotate.iml" filepath="$PROJECT_DIR$/camera3drotate/camera3drotate.iml" />
