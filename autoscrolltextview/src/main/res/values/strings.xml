@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoScrollTextView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="marquee_default">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</string>
+    <string name="marquee_once">bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</string>
+    <string name="marquee_forever">ccccccccccccccccccccccccccccccccccccccccccccc</string>
+</resources>

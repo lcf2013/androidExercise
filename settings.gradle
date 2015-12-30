@@ -1,1 +1,1 @@
-include ':app', ':animator', ':media', ':viewpager', ':autoscrollimage', ':canvas_test'
+include ':app', ':animator', ':media', ':viewpager', ':autoscrollimage', ':canvas_test', ':autoscrolltextview'
