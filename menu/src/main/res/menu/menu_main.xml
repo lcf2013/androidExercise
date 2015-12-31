@@ -1,0 +1,64 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+
+        android:checkable="true"
+        android:title="字体大小">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/font_10"
+                    android:checkable="true"
+                    android:title="10sp"></item>
+                <item
+                    android:id="@+id/font_12"
+                    android:checkable="true"
+                    android:title="12sp"></item>
+                <item
+                    android:id="@+id/font_14"
+                    android:checkable="true"
+                    android:title="14sp"></item>
+                <item
+                    android:id="@+id/font_16"
+                    android:checkable="true"
+                    android:title="16sp"></item>
+                <item
+                    android:id="@+id/font_18"
+                    android:checkable="true"
+                    android:title="18sp"></item>
+
+            </group>
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/plain_item"
+        android:checkable="true"
+        android:title="普通菜单项"></item>
+    <item
+        android:checkable="true"
+        android:title="字体颜色">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/red_font"
+                    android:checkable="true"
+                    android:title="红色"></item>
+                <item
+                    android:id="@+id/blue_font"
+                    android:checkable="true"
+                    android:title="蓝色"></item>
+                <item
+                    android:id="@+id/green_font"
+                    android:checkable="true"
+                    android:title="绿色"></item>
+
+            </group>
+
+        </menu>
+
+    </item>
+
+</menu>
