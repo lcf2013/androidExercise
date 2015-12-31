@@ -11,7 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/camera3drotate/camera3drotate.iml" filepath="$PROJECT_DIR$/camera3drotate/camera3drotate.iml" />
       <module fileurl="file://$PROJECT_DIR$/canvas_test/canvas_test.iml" filepath="$PROJECT_DIR$/canvas_test/canvas_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchview/searchview.iml" filepath="$PROJECT_DIR$/searchview/searchview.iml" />
       <module fileurl="file://$PROJECT_DIR$/shaketextview/shaketextview.iml" filepath="$PROJECT_DIR$/shaketextview/shaketextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplecursoradapter/simplecursoradapter.iml" filepath="$PROJECT_DIR$/simplecursoradapter/simplecursoradapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
     </modules>
   </component>

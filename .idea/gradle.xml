@@ -17,7 +17,9 @@
             <option value="$PROJECT_DIR$/camera3drotate" />
             <option value="$PROJECT_DIR$/canvas_test" />
             <option value="$PROJECT_DIR$/media" />
+            <option value="$PROJECT_DIR$/searchview" />
             <option value="$PROJECT_DIR$/shaketextview" />
+            <option value="$PROJECT_DIR$/simplecursoradapter" />
             <option value="$PROJECT_DIR$/viewpager" />
           </set>
         </option>
