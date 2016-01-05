@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scrollcollision</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scroll_view_nest_view_pager">ScrollViewNestViewPager</string>
+    <string name="title_activity_view_pager_nest_scroll_view">ViewPagerNestScrollView</string>
+</resources>

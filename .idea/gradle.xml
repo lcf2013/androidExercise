@@ -19,9 +19,11 @@
             <option value="$PROJECT_DIR$/customview" />
             <option value="$PROJECT_DIR$/media" />
             <option value="$PROJECT_DIR$/menu" />
+            <option value="$PROJECT_DIR$/scrollcollision" />
             <option value="$PROJECT_DIR$/searchview" />
             <option value="$PROJECT_DIR$/shaketextview" />
             <option value="$PROJECT_DIR$/simplecursoradapter" />
+            <option value="$PROJECT_DIR$/toucheventmechanism" />
             <option value="$PROJECT_DIR$/viewdrawpass" />
             <option value="$PROJECT_DIR$/viewpager" />
           </set>

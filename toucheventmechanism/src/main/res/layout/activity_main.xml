@@ -1,0 +1,20 @@
+<com.zhenai.toucheventmechanism.FatherView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#468AD7"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.zhenai.toucheventmechanism.ChildView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:background="#E1110D"
+        android:orientation="vertical"
+        >
+
+    </com.zhenai.toucheventmechanism.ChildView>
+
+</com.zhenai.toucheventmechanism.FatherView>
