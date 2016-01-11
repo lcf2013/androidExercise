@@ -1,0 +1,30 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <style name="ToolbarStyle" parent="Widget.AppCompat.Light.ActionBar">
+        <item name="android:theme">@style/ToolbarTextStyle</item>
+    </style>
+
+    <style name="menu_item_text_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textStyle">bold</item><!--不生效-->
+        <item name="android:gravity">right</item>
+        <item name="android:textColor">#00cc00</item><!--不生效-->
+        <item name="android:textAllCaps">true</item><!--不生效-->
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="ToolbarTextStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">#cc00ff</item>
+        <item name="android:textColor">#cceeaa</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:actionMenuTextAppearance">@style/menu_item_text_style</item>
+        <item name="android:layout_gravity">right</item>
+    </style>
+
+
+</resources>

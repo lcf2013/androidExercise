@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/actionbar" />
             <option value="$PROJECT_DIR$/animator" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/autocompleteconcattext" />
@@ -23,9 +24,11 @@
             <option value="$PROJECT_DIR$/searchview" />
             <option value="$PROJECT_DIR$/shaketextview" />
             <option value="$PROJECT_DIR$/simplecursoradapter" />
+            <option value="$PROJECT_DIR$/surfaceview" />
             <option value="$PROJECT_DIR$/toucheventmechanism" />
             <option value="$PROJECT_DIR$/viewdrawpass" />
             <option value="$PROJECT_DIR$/viewpager" />
+            <option value="$PROJECT_DIR$/webview" />
           </set>
         </option>
       </GradleProjectSettings>
