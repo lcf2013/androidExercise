@@ -10,6 +10,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/actionbar" />
+            <option value="$PROJECT_DIR$/aidlclient" />
+            <option value="$PROJECT_DIR$/aidlserver" />
             <option value="$PROJECT_DIR$/animator" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/autocompleteconcattext" />
@@ -20,6 +22,7 @@
             <option value="$PROJECT_DIR$/customview" />
             <option value="$PROJECT_DIR$/media" />
             <option value="$PROJECT_DIR$/menu" />
+            <option value="$PROJECT_DIR$/preference" />
             <option value="$PROJECT_DIR$/scrollcollision" />
             <option value="$PROJECT_DIR$/searchview" />
             <option value="$PROJECT_DIR$/shaketextview" />
