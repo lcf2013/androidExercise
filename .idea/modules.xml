@@ -14,9 +14,13 @@
       <module fileurl="file://$PROJECT_DIR$/camera3drotate/camera3drotate.iml" filepath="$PROJECT_DIR$/camera3drotate/camera3drotate.iml" />
       <module fileurl="file://$PROJECT_DIR$/canvas_test/canvas_test.iml" filepath="$PROJECT_DIR$/canvas_test/canvas_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawviewwithbuffer/drawviewwithbuffer.iml" filepath="$PROJECT_DIR$/drawviewwithbuffer/drawviewwithbuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
       <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
       <module fileurl="file://$PROJECT_DIR$/preference/preference.iml" filepath="$PROJECT_DIR$/preference/preference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh_exercise/pulltorefresh_exercise.iml" filepath="$PROJECT_DIR$/pulltorefresh_exercise/pulltorefresh_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefreshexercise/pulltorefreshexercise.iml" filepath="$PROJECT_DIR$/pulltorefreshexercise/pulltorefreshexercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/scrollcollision/scrollcollision.iml" filepath="$PROJECT_DIR$/scrollcollision/scrollcollision.iml" />
       <module fileurl="file://$PROJECT_DIR$/searchview/searchview.iml" filepath="$PROJECT_DIR$/searchview/searchview.iml" />
       <module fileurl="file://$PROJECT_DIR$/shaketextview/shaketextview.iml" filepath="$PROJECT_DIR$/shaketextview/shaketextview.iml" />

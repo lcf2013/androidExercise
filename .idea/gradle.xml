@@ -20,9 +20,13 @@
             <option value="$PROJECT_DIR$/camera3drotate" />
             <option value="$PROJECT_DIR$/canvas_test" />
             <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/drawviewwithbuffer" />
+            <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/media" />
             <option value="$PROJECT_DIR$/menu" />
             <option value="$PROJECT_DIR$/preference" />
+            <option value="$PROJECT_DIR$/pulltorefresh_exercise" />
+            <option value="$PROJECT_DIR$/pulltorefreshexercise" />
             <option value="$PROJECT_DIR$/scrollcollision" />
             <option value="$PROJECT_DIR$/searchview" />
             <option value="$PROJECT_DIR$/shaketextview" />
