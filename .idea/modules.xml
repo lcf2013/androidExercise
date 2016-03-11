@@ -14,7 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/camera3drotate/camera3drotate.iml" filepath="$PROJECT_DIR$/camera3drotate/camera3drotate.iml" />
       <module fileurl="file://$PROJECT_DIR$/canvas_test/canvas_test.iml" filepath="$PROJECT_DIR$/canvas_test/canvas_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview2/customview2.iml" filepath="$PROJECT_DIR$/customview2/customview2.iml" />
       <module fileurl="file://$PROJECT_DIR$/drawviewwithbuffer/drawviewwithbuffer.iml" filepath="$PROJECT_DIR$/drawviewwithbuffer/drawviewwithbuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foldinglayout/foldinglayout.iml" filepath="$PROJECT_DIR$/foldinglayout/foldinglayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foldinglayoutsample/foldinglayoutsample.iml" filepath="$PROJECT_DIR$/foldinglayoutsample/foldinglayoutsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
       <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
