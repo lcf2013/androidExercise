@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item android:title="画笔颜色">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/red" android:title="红色" />
+                <item android:id="@+id/green" android:title="绿色" />
+                <item android:id="@+id/blue" android:title="蓝色" />
+
+            </group>
+
+        </menu>
+    </item>
+    <item android:title="画笔粗细">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/width_1" android:title="1" />
+                <item android:id="@+id/width_2" android:title="3" />
+                <item android:id="@+id/width_3" android:title="5" />
+
+            </group>
+
+        </menu>
+    </item>
+    <item android:id="@+id/blur" android:title="模糊滤镜"/>
+    <item android:id="@+id/emboss" android:title="浮雕滤镜"/>
+</menu>
