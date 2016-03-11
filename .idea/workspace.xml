@@ -11,101 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4bba236-25ed-4932-a802-be548075aa62" name="Default" comment="下拉刷新，折叠folding view">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable-hdpi/default_ptr_flip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable-mdpi/default_ptr_flip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable-xhdpi/default_ptr_flip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable-hdpi/default_ptr_rotate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable-mdpi/default_ptr_rotate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable-xhdpi/default_ptr_rotate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable-hdpi/indicator_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable-mdpi/indicator_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable-xhdpi/indicator_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/androidTest/java/com/zhenai/pulltorefreshexercise/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customview/src/main/java/com/zhenai/customview/CustomProgressBar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customview/src/main/java/com/zhenai/customview/CustomVolumControlBar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/EmptyViewMethodAccessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/test/java/com/zhenai/pulltorefreshexercise/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/FlipLoadingLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/ILoadingLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/IPullToRefresh.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/IndicatorLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/LoadingLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/LoadingLayoutProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/MyAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/MyListView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/MyRefreshListView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/OverscrollHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/PullToRefreshAdapterViewBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/PullToRefreshBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/PullToRefreshExpandableListView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/PullToRefreshGridView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/PullToRefreshHorizontalScrollView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/PullToRefreshListView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/PullToRefreshScrollView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/PullToRefreshWebView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/RotateLoadingLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customview/src/main/java/com/zhenai/customview/TitleTextView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/java/com/zhenai/pulltorefreshexercise/ViewCompat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customview/src/main/res/values/attrs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values/attrs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/layout/banner_container.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/layout/content_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customview2/customview2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/layout/footer_load_more.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values/ids.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable/indicator_bg_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/drawable/indicator_bg_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/layout/layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/library.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/menu/menu_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-ar/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-cs/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-de/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-es/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-fi/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-fr/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-he/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-it/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-iw/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-ja/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-ko/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-nl/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-pl/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-pt/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-pt-rBR/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-ro/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-ru/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values-zh/pull_refresh_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/layout/pull_to_refresh_header_horizontal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/layout/pull_to_refresh_header_vertical.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefresh_exercise/pulltorefresh_exercise.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/pulltorefreshexercise.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/anim/slide_in_from_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/anim/slide_in_from_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/anim/slide_out_to_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/anim/slide_out_to_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pulltorefreshexercise/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customview/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/customview/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customview/src/main/java/com/zhenai/customview/MainActivity.java" afterPath="$PROJECT_DIR$/customview/src/main/java/com/zhenai/customview/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customview/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/customview/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera3drotate/build.gradle" afterPath="$PROJECT_DIR$/camera3drotate/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customview/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/customview/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webview/webview.iml" afterPath="$PROJECT_DIR$/webview/webview.iml" />
+      <change type="DELETED" beforePath="C:\lcf\androidStudioWorkSpace\androidExercise\pulltorefresh_exercise\pulltorefresh_exercise.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="androidExercise.iws" />
@@ -20192,7 +20098,19 @@
       <option name="project" value="LOCAL" />
       <updated>1457693589667</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="下拉刷新，折叠folding view">
+      <created>1457693631174</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1457693631174</updated>
+    </task>
+    <task id="LOCAL-00004" summary="下拉刷新，折叠folding view">
+      <created>1457693721956</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1457693721956</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -20206,14 +20124,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42420027" sideWeight="0.5057307" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42420027" sideWeight="0.49426934" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34214187" sideWeight="0.49426934" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20988539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20988539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -20357,6 +20275,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="595" column="25" selection-start-line="595" selection-start-column="25" selection-end-line="595" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -20542,6 +20461,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6788" column="18" selection-start-line="6788" selection-start-column="18" selection-end-line="6788" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
