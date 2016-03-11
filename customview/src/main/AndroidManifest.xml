@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MoveGestureActivity"
+            android:label="@string/title_activity_move_gesture" >
+        </activity>
+        <activity
+            android:name=".ScaleGestureActivity"
+            android:label="@string/title_activity_scale_gesture" >
+        </activity>
     </application>
 
 </manifest>
