@@ -11,174 +11,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4bba236-25ed-4932-a802-be548075aa62" name="Default" comment="下拉刷新，折叠folding view">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/ab_bottom_solid_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/ab_bottom_solid_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/ab_bottom_solid_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/ab_solid_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/ab_solid_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/ab_solid_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/ab_stacked_solid_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/ab_stacked_solid_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/ab_stacked_solid_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/ab_texture_tile_ptr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/ab_texture_tile_ptr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/ab_texture_tile_ptr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/ab_transparent_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/ab_transparent_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/ab_transparent_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/action_search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/action_search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/bear.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/bird.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/btn_cab_done_default_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/btn_cab_done_default_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/btn_cab_done_default_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/btn_cab_done_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/btn_cab_done_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/btn_cab_done_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/btn_cab_done_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/btn_cab_done_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/btn_cab_done_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/cab_background_bottom_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/cab_background_bottom_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/cab_background_bottom_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/cab_background_top_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/cab_background_top_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/cab_background_top_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/cat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/drawer_shadow.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/drawer_shadow.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/ic_drawer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/ic_drawer.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/mipmap-hdpi/ic_launcher.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/mipmap-mdpi/ic_launcher.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/mipmap-xhdpi/ic_launcher.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-ldpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/iguana.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/list_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/list_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/list_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/menu_dropdown_panel_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/menu_dropdown_panel_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/menu_dropdown_panel_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/progress_bg_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/progress_bg_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/progress_bg_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/progress_primary_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/progress_primary_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/progress_primary_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/progress_secondary_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/progress_secondary_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/progress_secondary_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/spinner_ab_default_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/spinner_ab_default_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/spinner_ab_default_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/spinner_ab_disabled_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/spinner_ab_disabled_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/spinner_ab_disabled_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/spinner_ab_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/spinner_ab_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/spinner_ab_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/spinner_ab_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/spinner_ab_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/spinner_ab_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/tab_selected_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/tab_selected_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/tab_selected_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/tab_selected_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/tab_selected_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/tab_selected_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/tab_selected_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/tab_selected_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/tab_selected_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/tab_unselected_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/tab_unselected_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/tab_unselected_focused_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/tab_unselected_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/tab_unselected_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/tab_unselected_pressed_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-hdpi/tab_unselected_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-mdpi/tab_unselected_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable-xhdpi/tab_unselected_ptr.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/tigers.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/java/com/zhenai/foldinglayoutsample/AnimalFragment.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/androidTest/java/com/zhenai/drawviewwithbuffer/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/androidTest/java/com/zhenai/foldinglayout/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/androidTest/java/com/zhenai/foldinglayoutsample/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/main/java/com/zhenai/foldinglayout/BaseFoldingLayout.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/java/com/zhenai/drawviewwithbuffer/DrawView.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/test/java/com/zhenai/drawviewwithbuffer/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/test/java/com/zhenai/foldinglayout/ExampleUnitTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/test/java/com/zhenai/foldinglayoutsample/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/main/java/com/zhenai/foldinglayout/FoldingDrawerLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/java/com/zhenai/foldinglayoutsample/FoldingDrawerLayoutActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/main/java/com/zhenai/foldinglayout/FoldingLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/java/com/zhenai/foldinglayoutsample/FoldingLayoutActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/main/java/com/zhenai/foldinglayout/FoldingPaneLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/java/com/zhenai/foldinglayoutsample/FoldingPaneLayoutActivity.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/java/com/zhenai/drawviewwithbuffer/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/java/com/zhenai/foldinglayoutsample/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/main/java/com/zhenai/foldinglayout/OnFoldListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/main/java/com/zhenai/foldinglayout/Util.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/ab_background_textured_ptr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/layout/activity_drawer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/layout/activity_fold.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/layout/activity_pane.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/main/res/values/attrs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/btn_cab_done_ptr.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/build.gradle" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/build.gradle" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/values/colors_ptr.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/values/dimens.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/layout/drawer_list_item.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/drawviewwithbuffer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/menu/fold.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/menu/fold_with_bug.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/foldinglayout.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/foldinglayoutsample.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/layout/fragment_animal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/menu/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/menu/main2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/menu/menu_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/menu/menu_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/menu/menu_spinner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/pressed_background_ptr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/progress_horizontal_ptr.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/proguard-rules.pro" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/proguard-rules.pro" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/selectable_background_ptr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/layout/spinner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/spinner_background_ab_ptr.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayout/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/values/strings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawviewwithbuffer/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/values-v21/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/values/styles_ptr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foldinglayoutsample/src/main/res/drawable/tab_indicator_ab_ptr.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="androidExercise.iws" />
@@ -222,7 +83,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="113" column="41" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
-              <folding />
+              <folding>
+                <element signature="e#0#14088#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#6631#6632#0" expanded="false" />
+                <element signature="e#6702#6703#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -19803,7 +19669,37 @@
       <option name="project" value="LOCAL" />
       <updated>1457694020736</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="下拉刷新，折叠folding view">
+      <created>1457694498504</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1457694498504</updated>
+    </task>
+    <task id="LOCAL-00009" summary="下拉刷新，折叠folding view">
+      <created>1457694557862</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1457694557862</updated>
+    </task>
+    <task id="LOCAL-00010" summary="下拉刷新，折叠folding view">
+      <created>1457694671080</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1457694671080</updated>
+    </task>
+    <task id="LOCAL-00011" summary="下拉刷新，折叠folding view">
+      <created>1457694714693</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1457694714693</updated>
+    </task>
+    <task id="LOCAL-00012" summary="下拉刷新，折叠folding view">
+      <created>1457694814785</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1457694814785</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -20309,7 +20205,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="113" column="41" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
-          <folding />
+          <folding>
+            <element signature="e#0#14088#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6631#6632#0" expanded="false" />
+            <element signature="e#6702#6703#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
