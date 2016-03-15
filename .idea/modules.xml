@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/autocompleteconcattext/autocompleteconcattext.iml" filepath="$PROJECT_DIR$/autocompleteconcattext/autocompleteconcattext.iml" />
       <module fileurl="file://$PROJECT_DIR$/autoscrollimage/autoscrollimage.iml" filepath="$PROJECT_DIR$/autoscrollimage/autoscrollimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/autoscrolltextview/autoscrolltextview.iml" filepath="$PROJECT_DIR$/autoscrolltextview/autoscrolltextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binaryslidingmenu/binaryslidingmenu.iml" filepath="$PROJECT_DIR$/binaryslidingmenu/binaryslidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binaryslidingmenu2/binaryslidingmenu2.iml" filepath="$PROJECT_DIR$/binaryslidingmenu2/binaryslidingmenu2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binaryslidingmenu3/binaryslidingmenu3.iml" filepath="$PROJECT_DIR$/binaryslidingmenu3/binaryslidingmenu3.iml" />
       <module fileurl="file://$PROJECT_DIR$/camera3drotate/camera3drotate.iml" filepath="$PROJECT_DIR$/camera3drotate/camera3drotate.iml" />
       <module fileurl="file://$PROJECT_DIR$/canvas_test/canvas_test.iml" filepath="$PROJECT_DIR$/canvas_test/canvas_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
