@@ -19,15 +19,19 @@
       <module fileurl="file://$PROJECT_DIR$/foldinglayout/foldinglayout.iml" filepath="$PROJECT_DIR$/foldinglayout/foldinglayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/foldinglayoutsample/foldinglayoutsample.iml" filepath="$PROJECT_DIR$/foldinglayoutsample/foldinglayoutsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrixpolytopoly/matrixpolytopoly.iml" filepath="$PROJECT_DIR$/matrixpolytopoly/matrixpolytopoly.iml" />
       <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
       <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nineoldandroids/nineoldandroids.iml" filepath="$PROJECT_DIR$/nineoldandroids/nineoldandroids.iml" />
       <module fileurl="file://$PROJECT_DIR$/preference/preference.iml" filepath="$PROJECT_DIR$/preference/preference.iml" />
       <module fileurl="file://$PROJECT_DIR$/pulltorefresh_exercise/pulltorefresh_exercise.iml" filepath="$PROJECT_DIR$/pulltorefresh_exercise/pulltorefresh_exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/pulltorefreshexercise/pulltorefreshexercise.iml" filepath="$PROJECT_DIR$/pulltorefreshexercise/pulltorefreshexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqdrawerlayoutmenu/qqdrawerlayoutmenu.iml" filepath="$PROJECT_DIR$/qqdrawerlayoutmenu/qqdrawerlayoutmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/scrollcollision/scrollcollision.iml" filepath="$PROJECT_DIR$/scrollcollision/scrollcollision.iml" />
       <module fileurl="file://$PROJECT_DIR$/searchview/searchview.iml" filepath="$PROJECT_DIR$/searchview/searchview.iml" />
       <module fileurl="file://$PROJECT_DIR$/shaketextview/shaketextview.iml" filepath="$PROJECT_DIR$/shaketextview/shaketextview.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplecursoradapter/simplecursoradapter.iml" filepath="$PROJECT_DIR$/simplecursoradapter/simplecursoradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu01/slidingmenu01.iml" filepath="$PROJECT_DIR$/slidingmenu01/slidingmenu01.iml" />
       <module fileurl="file://$PROJECT_DIR$/surfaceview/surfaceview.iml" filepath="$PROJECT_DIR$/surfaceview/surfaceview.iml" />
       <module fileurl="file://$PROJECT_DIR$/toucheventmechanism/toucheventmechanism.iml" filepath="$PROJECT_DIR$/toucheventmechanism/toucheventmechanism.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewdrawpass/viewdrawpass.iml" filepath="$PROJECT_DIR$/viewdrawpass/viewdrawpass.iml" />
