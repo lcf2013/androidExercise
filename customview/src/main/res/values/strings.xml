@@ -6,4 +6,5 @@
     <string name="title_activity_move_gesture">MoveGestureActivity</string>
     <string name="title_activity_scale_gesture">ScaleGestureActivity</string>
     <string name="title_activity_anim_list_view">AnimListViewActivity</string>
+    <string name="title_activity_progress_bar">ProgressBarActivity</string>
 </resources>
