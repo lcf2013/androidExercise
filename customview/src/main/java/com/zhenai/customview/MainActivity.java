@@ -19,11 +19,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.custom_layout);
 
 
 
-        findViewById(R.id.btn_move).setOnClickListener(new View.OnClickListener() {
+        /*findViewById(R.id.btn_move).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent  intent=new Intent(MainActivity.this,MoveGestureActivity.class);
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent  intent=new Intent(MainActivity.this,ScaleGestureActivity.class);
                 startActivity(intent);
             }
-        });
+        });*/
 
     }
 }

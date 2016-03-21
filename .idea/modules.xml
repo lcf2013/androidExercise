@@ -16,9 +16,12 @@
       <module fileurl="file://$PROJECT_DIR$/binaryslidingmenu3/binaryslidingmenu3.iml" filepath="$PROJECT_DIR$/binaryslidingmenu3/binaryslidingmenu3.iml" />
       <module fileurl="file://$PROJECT_DIR$/camera3drotate/camera3drotate.iml" filepath="$PROJECT_DIR$/camera3drotate/camera3drotate.iml" />
       <module fileurl="file://$PROJECT_DIR$/canvas_test/canvas_test.iml" filepath="$PROJECT_DIR$/canvas_test/canvas_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customdrawable/customdrawable.iml" filepath="$PROJECT_DIR$/customdrawable/customdrawable.iml" />
       <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
       <module fileurl="file://$PROJECT_DIR$/customview2/customview2.iml" filepath="$PROJECT_DIR$/customview2/customview2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview2/customview2.iml" filepath="$PROJECT_DIR$/customview2/customview2.iml" />
       <module fileurl="file://$PROJECT_DIR$/drawviewwithbuffer/drawviewwithbuffer.iml" filepath="$PROJECT_DIR$/drawviewwithbuffer/drawviewwithbuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eraserview/eraserview.iml" filepath="$PROJECT_DIR$/eraserview/eraserview.iml" />
       <module fileurl="file://$PROJECT_DIR$/foldinglayout/foldinglayout.iml" filepath="$PROJECT_DIR$/foldinglayout/foldinglayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/foldinglayoutsample/foldinglayoutsample.iml" filepath="$PROJECT_DIR$/foldinglayoutsample/foldinglayoutsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
@@ -37,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/slidingmenu01/slidingmenu01.iml" filepath="$PROJECT_DIR$/slidingmenu01/slidingmenu01.iml" />
       <module fileurl="file://$PROJECT_DIR$/surfaceview/surfaceview.iml" filepath="$PROJECT_DIR$/surfaceview/surfaceview.iml" />
       <module fileurl="file://$PROJECT_DIR$/toucheventmechanism/toucheventmechanism.iml" filepath="$PROJECT_DIR$/toucheventmechanism/toucheventmechanism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdraghelper/viewdraghelper.iml" filepath="$PROJECT_DIR$/viewdraghelper/viewdraghelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewdrawpass/viewdrawpass.iml" filepath="$PROJECT_DIR$/viewdrawpass/viewdrawpass.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
       <module fileurl="file://$PROJECT_DIR$/webview/webview.iml" filepath="$PROJECT_DIR$/webview/webview.iml" />
