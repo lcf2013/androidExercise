@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk"
+    xmlns:lcf="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/base_toolbar"
+        style="@style/ToolbarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:textDirection="@integer/abc_max_action_buttons"
+        app:layout_collapseMode="pin"
+        app:theme="@style/ToolbarStyle" />
+    <android.support.v4.view.ViewPager
+        android:id="@+id/id_viewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/tabbg"
+        android:orientation="horizontal" >
+
+        <com.zhenai.customview.views.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_one"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            lcf:icon="@drawable/ic_menu_start_conversation"
+            lcf:text="@string/tab_weixin"
+            lcf:text_size="12sp" />
+
+        <com.zhenai.customview.views.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_two"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            lcf:icon="@drawable/ic_menu_friendslist"
+            lcf:text="@string/tab_contact"
+            lcf:text_size="12sp" />
+
+        <com.zhenai.customview.views.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_three"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            lcf:icon="@drawable/ic_menu_emoticons"
+            lcf:text="@string/tab_find"
+            lcf:text_size="12sp" />
+
+        <com.zhenai.customview.views.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_four"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            lcf:icon="@drawable/ic_menu_allfriends"
+            lcf:text="@string/tab_me"
+            lcf:text_size="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

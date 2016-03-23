@@ -1,8 +1,35 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
         <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
     </style>
+    <style name="text_flag_01">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:background">@drawable/flag_01</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="ToolbarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:theme">@style/ToolbarTextStyle</item>
+    </style>
+    <style name="coffee_menu_item_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">normal</item>
 
+        <item name="android:actionMenuTextColor">@drawable/toolbar_menuitem_color_selector</item>
+        <item name="android:gravity">right</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ToolbarTextStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:actionMenuTextAppearance">@style/coffee_menu_item_text_style</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
 </resources>
