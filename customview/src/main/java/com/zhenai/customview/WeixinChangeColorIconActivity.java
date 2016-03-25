@@ -46,9 +46,10 @@ public class WeixinChangeColorIconActivity extends AppCompatActivity implements
 		setContentView(R.layout.weixin_change_iconcolor);
 
 		toolbar=(Toolbar)findViewById(R.id.base_toolbar);
-//		setSupportActionBar(toolbar);
+		setSupportActionBar(toolbar);
+		getSupportActionBar().setDisplayShowHomeEnabled(false);
 		setOverflowShowingAlways();
-//		getActionBar().setDisplayShowHomeEnabled(false);
+//		setOverflowShowingAlways();
 		mViewPager = (ViewPager) findViewById(R.id.id_viewpager);
 
 		initDatas();
