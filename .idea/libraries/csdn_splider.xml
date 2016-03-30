@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="csdn_splider">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/csdnapp/libs/csdn_splider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

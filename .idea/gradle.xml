@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/binaryslidingmenu3" />
             <option value="$PROJECT_DIR$/camera3drotate" />
             <option value="$PROJECT_DIR$/canvas_test" />
+            <option value="$PROJECT_DIR$/csdnapp" />
             <option value="$PROJECT_DIR$/customdrawable" />
             <option value="$PROJECT_DIR$/customview" />
             <option value="$PROJECT_DIR$/customview2" />
@@ -30,6 +31,8 @@
             <option value="$PROJECT_DIR$/foldinglayout" />
             <option value="$PROJECT_DIR$/foldinglayoutsample" />
             <option value="$PROJECT_DIR$/fragmentasynctaskrotatescreen" />
+            <option value="$PROJECT_DIR$/gestureimageviewlibrary" />
+            <option value="$PROJECT_DIR$/imageloaderlibrary" />
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/matrixpolytopoly" />
             <option value="$PROJECT_DIR$/media" />
@@ -49,7 +52,9 @@
             <option value="$PROJECT_DIR$/viewdraghelper" />
             <option value="$PROJECT_DIR$/viewdrawpass" />
             <option value="$PROJECT_DIR$/viewpager" />
+            <option value="$PROJECT_DIR$/viewpagerindicatorlibrary" />
             <option value="$PROJECT_DIR$/webview" />
+            <option value="$PROJECT_DIR$/xlistviewlibrary" />
           </set>
         </option>
       </GradleProjectSettings>
