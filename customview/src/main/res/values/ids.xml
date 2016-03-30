@@ -2,4 +2,5 @@
 <resources>
 
     <item name="id_button" type="id"/>
+    <item name="jazzy_key" type="id"/>
 </resources>

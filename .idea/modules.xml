@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/eraserview/eraserview.iml" filepath="$PROJECT_DIR$/eraserview/eraserview.iml" />
       <module fileurl="file://$PROJECT_DIR$/foldinglayout/foldinglayout.iml" filepath="$PROJECT_DIR$/foldinglayout/foldinglayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/foldinglayoutsample/foldinglayoutsample.iml" filepath="$PROJECT_DIR$/foldinglayoutsample/foldinglayoutsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentasynctaskrotatescreen/fragmentasynctaskrotatescreen.iml" filepath="$PROJECT_DIR$/fragmentasynctaskrotatescreen/fragmentasynctaskrotatescreen.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/matrixpolytopoly/matrixpolytopoly.iml" filepath="$PROJECT_DIR$/matrixpolytopoly/matrixpolytopoly.iml" />
       <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
