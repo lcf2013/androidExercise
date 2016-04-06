@@ -115,4 +115,10 @@
         <attr name="outlineEnabled" format="boolean" />
         <attr name="outlineColor" format="color|reference" />
     </declare-styleable>
+
+    <attr name="itemCount" format="integer" />
+
+    <declare-styleable name="MyListView">
+        <attr name="itemCount" />
+    </declare-styleable>
 </resources>

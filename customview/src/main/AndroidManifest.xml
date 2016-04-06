@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.zhenai.customview" >
+    package="com.zhenai.customview">
 
     <application
         android:allowBackup="true"
         android:hardwareAccelerated="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name">
 
             <!--
             <intent-filter>
@@ -22,15 +22,13 @@
         </activity>
         <activity
             android:name=".MoveGestureActivity"
-            android:label="@string/title_activity_move_gesture" >
-        </activity>
+            android:label="@string/title_activity_move_gesture"></activity>
         <activity
             android:name=".ScaleGestureActivity"
-            android:label="@string/title_activity_scale_gesture" >
-        </activity>
+            android:label="@string/title_activity_scale_gesture"></activity>
         <activity
             android:name=".AnimListViewActivity"
-            android:label="@string/title_activity_anim_list_view" >
+            android:label="@string/title_activity_anim_list_view">
 
             <!--
             <intent-filter>
@@ -42,7 +40,7 @@
         </activity>
         <activity
             android:name=".ProgressBarActivity"
-            android:label="@string/title_activity_progress_bar" >
+            android:label="@string/title_activity_progress_bar">
 
             <!--
             <intent-filter>
@@ -54,7 +52,7 @@
         </activity>
         <activity android:name=".SimpleColorTrackUseActivity" />
         <activity android:name=".ViewPagerUseActivity" />
-        <activity android:name=".HomeActivity" >
+        <activity android:name=".HomeActivity">
 
             <!--
             <intent-filter>
@@ -65,7 +63,7 @@
             -->
 
         </activity>
-        <activity android:name=".WeixinChangeColorIconActivity" >
+        <activity android:name=".WeixinChangeColorIconActivity">
 
             <!--
             <intent-filter>
@@ -77,7 +75,7 @@
         </activity>
         <activity
             android:name=".ZoomImageViewActivity"
-            android:label="@string/title_activity_zoom_image_view" >
+            android:label="@string/title_activity_zoom_image_view">
 
             <!--
             <intent-filter>
@@ -89,7 +87,7 @@
         </activity>
         <activity
             android:name=".ClipImageActivity"
-            android:label="@string/title_activity_clip_image" >
+            android:label="@string/title_activity_clip_image">
 
             <!--
             <intent-filter>
@@ -99,11 +97,10 @@
             </intent-filter>
             -->
         </activity>
-        <activity android:name=".ShowImageActivity" >
-        </activity>
+        <activity android:name=".ShowImageActivity"></activity>
         <activity
             android:name=".RecyclerViewGallaryActivity"
-            android:label="@string/title_activity_recycler_view_gallary" >
+            android:label="@string/title_activity_recycler_view_gallary">
 
             <!--
             <intent-filter>
@@ -115,7 +112,7 @@
         </activity>
         <activity
             android:name=".ArcMenuActivity"
-            android:label="@string/title_activity_recycler_view_gallary" >
+            android:label="@string/title_activity_recycler_view_gallary">
 
             <!--
             <intent-filter>
@@ -127,7 +124,7 @@
         </activity>
         <activity
             android:name=".GestureLockViewActivity"
-            android:label="@string/title_activity_gesture_lock_view" >
+            android:label="@string/title_activity_gesture_lock_view">
 
             <!--
             <intent-filter>
@@ -137,7 +134,51 @@
             </intent-filter>
             -->
         </activity>
-        <activity android:name=".VerticalLinearLayoutActivity" >
+        <activity android:name=".VerticalLinearLayoutActivity">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name=".QQListViewActivity"
+            android:label="@string/title_activity_qqlist_view">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity android:name=".JazzyViewPagerActivity">
+
+            <!--
+                <intent-filter>
+                    <action android:name="android.intent.action.MAIN" />
+
+                    <category android:name="android.intent.category.LAUNCHER" />
+                </intent-filter>
+            -->
+
+        </activity>
+        <activity android:name=".BounceScrollViewActivity">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+
+        </activity>
+        <activity android:name=".ViewPagerTransformerActivity">
             <!--<intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -145,23 +186,18 @@
             </intent-filter>-->
         </activity>
         <activity
-            android:name=".QQListViewActivity"
-            android:label="@string/title_activity_qqlist_view" >
+            android:name=".GuaGuaActivity"
+            android:label="@string/title_activity_gua_gua">
             <!--<intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>-->
-        </activity>
-        <activity android:name=".JazzyViewPagerActivity">
-               <!-- <intent-filter>
-                    <action android:name="android.intent.action.MAIN" />
-
-                    <category android:name="android.intent.category.LAUNCHER" />
-                </intent-filter>-->
 
         </activity>
-        <activity android:name=".BounceScrollViewActivity">
+        <activity
+            android:name=".ShowCompleteItemListViewActivity"
+            android:label="@string/title_activity_gua_gua">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
